@@ -13,6 +13,7 @@ public class Addition {
 		System.out.println("Addition of a+b: "+(a+b) );
 		System.out.println("the string are: "+name);
 		// TODO Auto-generated method stub
+		
 
 	}
 
